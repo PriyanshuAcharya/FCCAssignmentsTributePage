@@ -1,2 +1,2 @@
 # FCCAssignmentsTributePage
-This contains the files for the FreeCodeCamp Assignment of Tribute Page
+This is the second assignment given by freeCodeCamp for Web Development Certification
