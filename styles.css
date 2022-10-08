@@ -1,0 +1,14 @@
+img
+{
+  display:block;
+  width:50%;
+  margin:0 auto;
+  max-width:100%;
+}
+
+#main
+{
+  margin:15px;
+  font-size:25;
+  background-color:#aaffff;
+}
