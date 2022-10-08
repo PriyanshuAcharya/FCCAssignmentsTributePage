@@ -12,3 +12,16 @@ img
   font-size:25;
   background-color:#aaffff;
 }
+
+#title,#bio
+{
+  text-align:center;
+}
+
+#img-div
+{
+  margin:0 50px;
+  text-align:center;
+  font-size:17;
+  background-color:#ddffee;
+}
