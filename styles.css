@@ -36,3 +36,17 @@ img
   margin-top:10px;
   text-align:center;
 }
+
+li
+{
+  font-size:20;
+  text-align:center;
+  margin-bottom:7px;
+}
+
+footer
+{
+  font-size:19;
+  text-align:center;
+  padding:15px;
+}
