@@ -25,3 +25,14 @@ img
   font-size:17;
   background-color:#ddffee;
 }
+
+#image
+{
+  padding:15px 0 3px 0;
+}
+
+#tribute-info
+{
+  margin-top:10px;
+  text-align:center;
+}
